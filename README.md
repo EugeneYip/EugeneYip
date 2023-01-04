@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi! This is Eugene 👋🏼
+
+My Public Info are @ [EugeneYip.com](https://eugeneyip.com)
+
+- 🔭 I’m currently working on promoting low code applications
+
+- 🌱 I’m currently learning techs about nostr, web3 & blockchains
+
+- 📫 How to reach me: contact@eugeneyip.com
 
 <!--
 **EugeneYip/EugeneYip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
