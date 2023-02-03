@@ -8,6 +8,8 @@ My Public Info are @ [EugeneYip.com](https://eugeneyip.com)
 
 - 📫 How to reach me: contact@eugeneyip.com
 
+npub1a37nh8exmrynufez9uhc0k9ucy6xc3a7kttrlxa4thyk7rwrra8sf5qx0u
+
 <!--
 **EugeneYip/EugeneYip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
