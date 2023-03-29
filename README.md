@@ -4,7 +4,7 @@ My Public Info are @ [EugeneYip.com](https://eugeneyip.com)
 
 - 🔭 I’m currently working on promoting low code applications
 
-- 🌱 I’m currently learning techs about nostr, web3 & blockchains
+- 🌱 I’m currently learning techs about nostr = web3
 
 - 📫 How to reach me: contact@eugeneyip.com
 
