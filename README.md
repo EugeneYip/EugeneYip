@@ -14,7 +14,7 @@ AI-assisted builder working across digital products, workflow systems, strategy,
 
 ## Selected work
 
-- [Page Starter](https://if.eugeneyip.com)  
+- [AI Page Publisher](https://aiweb.eugeneyip.com)  
   A simple website starter template designed for fast publishing by changing only JSX content.
 
 - [Global Trade Shock Monitor](https://tradewatch.eugeneyip.com)  
