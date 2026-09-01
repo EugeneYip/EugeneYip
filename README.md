@@ -1,57 +1,67 @@
 # Eugene Yip
 
-I am currently pursuing an M.S. in International Management at Northeastern University’s D’Amore-McKim School of Business. My background combines East Asian Studies, organizational operations, process optimization, and cross-cultural leadership. I am especially interested in building practical systems that turn ideas into clear execution.
+**Business Operations · AI-Enabled Workflows · Digital Products**
 
-AI-assisted builder working across digital products, workflow systems, strategy, and international business.
+I hold an M.S. in International Management from Northeastern University’s D’Amore-McKim School of Business. My background spans technology and business operations, process standardization, knowledge systems, cross-functional research, and AI-assisted product development. I bring a cross-cultural perspective shaped by North America and East Asia.
 
-## What I work on
+I focus on turning ambiguous objectives into clear, documented, and usable systems. I take ownership of outcomes, test assumptions against evidence, and refine my approach when a better path emerges.
 
-- AI-assisted tools and web projects
-- Workflow design and knowledge systems
-- Strategy, operations, and digital execution
-- International business and cross-cultural communication
-- Creator-led and research-driven online projects
+## Experience in practice
+
+- Standardized CRM and customer-support workflows across five cloud product lines and developed onboarding and knowledge systems for about eight interns and new hires.
+- Led a cross-functional AI-adoption assessment spanning five functional groups, translating the findings into four recommendations and a working Prompt Wiki prototype.
+- Supported product and go-to-market research, maintained decision documentation, and coordinated a three-person government proposal to Taiwan’s National Center for High-performance Computing.
+
+## AI collaboration
+
+I design and coordinate AI-assisted workflows with ChatGPT, Claude, and Grok across research, analysis, software development, documentation, visual production, content development, and quality assurance.
+
+This includes task decomposition, multi-agent coordination, model selection, context and handoff design, output evaluation, contradiction resolution, and recovery planning for long-running or interrupted projects.
+
+AI is an operating layer in my work, not a substitute for judgment. I remain responsible for scope, evidence, decisions, validation, and final delivery.
 
 ## Selected work
 
-- [AI Page Publisher](https://aiweb.eugeneyip.com)  
-  A simple website starter template designed for fast publishing by changing only JSX content.
+### [Global Trade Shock Monitor](https://tradewatch.eugeneyip.com)
 
-- [Global Trade Shock Monitor](https://tradewatch.eugeneyip.com)  
-  A research-driven project tracking how policy shocks may reshape sourcing patterns across categories, economies, and time.
+[Source code](https://github.com/EugeneYip/global-trade-shock-monitor)
 
-- [Geo Tracker](https://geo.eugeneyip.com)  
-  A map-based project connecting freedom, trade, and geopolitical risk data.
+A data-driven analytical tool examining how U.S. tariff policy since 2018 has redistributed trade flows across sectors and trading economies. It uses documented public data and a repeatable update pipeline.
 
-- [AI Guides](https://claude.eugeneyip.com)  
-  Practical guides and learning resources built around AI tools and workflows.
+### Interactive Geospatial Reference Series
 
-- Language learning experiments  
-  [Cantonese](https://yue.eugeneyip.com) · [Mandarin](https://cmn.eugeneyip.com) · [Japanese](https://jpn.eugeneyip.com) · [Vietnamese](https://vie.eugeneyip.com)
+[Earth](https://earth.eugeneyip.com) ([source](https://github.com/EugeneYip/Earth)) ·
+[United States](https://usa.eugeneyip.com) ([source](https://github.com/EugeneYip/USA)) ·
+[Japan](https://japan.eugeneyip.com) ([source](https://github.com/EugeneYip/Japan)) ·
+[Taiwan](https://taiwan.eugeneyip.com) ([source](https://github.com/EugeneYip/Taiwan))
 
-## Current focus
+A multilingual collection of browser-based reference tools combining interactive cartography, administrative geography, history, demographics, natural features, and documented source material. The series uses a shared design and publishing system while adapting the data and interactions to each geographic context.
 
-I am currently focused on AI-native workflows, digital infrastructure, public-facing tools, and scalable online systems that combine clarity, usefulness, and practical execution.
+### [QuietRate](https://quietrate.app)
+
+[Public website source](https://github.com/EugeneYip/quietrate-site)
+
+A privacy-conscious iOS currency converter currently in pre-release development. The product work covers offline-aware behavior, detailed exchange-rate modeling, methodology transparency, support and privacy documentation, automated verification, and release preparation.
+
+### [AI Page Publisher](https://aiweb.eugeneyip.com)
+
+[Source code](https://github.com/EugeneYip/aiweb)
+
+A reusable React and Vite workflow for turning AI-generated JSX into deployed web pages. It includes GitHub Actions deployment, automatic base-path handling, dependency checks, and multilingual documentation, and provides the publishing foundation for the reference series above.
+
+## Additional technical builds
+
+- **[GRAZE 68000](https://github.com/EugeneYip/graze-68000)** — A completed Sega Mega Drive vertical shooter written entirely in Motorola 68000 assembly, with enforced ROM and RAM budgets and emulator-backed testing.
+- **[Foxy Kart](https://kart.eugeneyip.com)** ([source](https://github.com/EugeneYip/Kart)) — A browser-based 3-D racing game with eight circuits, ten racers, twelve karts on the grid, and code-generated textures, models, and audio.
+
+## Languages
+
+English · Cantonese · Mandarin
 
 ## Connect
 
 - Website: [EugeneYip.com](https://eugeneyip.com)
+- LinkedIn: [Eugene Yip](https://www.linkedin.com/in/eugeneyip-/)
 - Email: [contact@eugeneyip.com](mailto:contact@eugeneyip.com)
-- Nostr: `npub1a37nh8exmrynufez9uhc0k9ucy6xc3a7kttrlxa4thyk7rwrra8sf5qx0u`
 
-Please explore my pinned repositories below for selected code, experiments, and documentation.
-
-<!--
-**EugeneYip/EugeneYip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I welcome conversations about professional roles and collaborations involving business operations, AI-enabled workflows, digital products, and international projects.
